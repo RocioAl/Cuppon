@@ -1,0 +1,79 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.bg-logo {
+    height: 25px;
+}
+
+.bg-title {
+    font-weight: 300;
+    color: #212529;
+}
+
+.bg-p {
+    font-size: 1em;
+    color: #707070;
+    font-weight: 300;
+}
+
+.bg-u {
+    font-size: 0.8em;
+    color: #707070;
+    font-weight: 300;
+}
+
+.bg-price-green {
+    color: #28a745;
+    font-weight: bold;
+    margin-left: 4px;
+}
+
+span {
+    font-size: 1.25em;
+}
+
+.bg-price {
+    text-align: right;
+}
+
+.bg-price-one {
+    color: #707070;
+}
+
+.bg-logo-black {
+    height: 24px;
+}
+
+.bg-footer {
+    font-size: 1.1em;
+    color: #707070;
+    text-align: center
+}
+
+.bg-green {
+    background-color: #28a745 !important;
+}
+
+.bg-container-cards {
+    margin: auto;
+}
+
+.bg-card {
+    width: 22rem;
+    margin: auto;
+}
+
+.bg-form {
+    background-color: #28a745;
+    text-align: center;
+    color: #707070;
+}
+
+.bg-form h1 {
+    color: white;
+}
+
+.bg-button {
+    font-weight: bold;
+}
